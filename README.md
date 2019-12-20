@@ -33,9 +33,5 @@
       <h1>Ethan Sinson</h1>
       <p>I am a Information student who currently just wants to go into a career in web design.</p>
     </div><img src="img/fileme.jpg" srcset="img/fileme.jpg 500w, images/fileme.jpg 800w, img/fileme.jpg 960w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px" alt="" class="hero-media"></div>
-</section>
-<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-<script src="js/webflow.js" type="text/javascript"></script>
-<!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
 </body>
 </html>
